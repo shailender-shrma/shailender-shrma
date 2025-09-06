@@ -22,3 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shailender-shrma&show_icons=true&locale=en&layout=compact" alt="shailender-shrma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shailender-shrma&show_icons=true&locale=en" alt="shailender-shrma" /></p>
+![Loli counter](https://count.getloli.com/get/@Nekidev?theme=gelbooru)
